@@ -107,7 +107,7 @@ pip3 install -r requirements.txt
 
     Loading certificates...
 
-    rwehe-ise31:
+    rwehe-ise:
     +---------------+---------------+---------------+--------------+--------------+--------------+--------------+----------+
     |  Certificate  |   Protocol    |   Issued To   |  Issued By   |  Valid From  |   Valid To   |  Days Until  | Expired? |
     |      ID       |               |               |              |              |              |  Expiration  |          |
@@ -148,7 +148,7 @@ pip3 install -r requirements.txt
 
     Loading certificates...
 
-    rwehe-ise31-2:
+    rwehe-ise-2:
     +---------------+---------------+---------------+--------------+--------------+--------------+--------------+----------+
     |  Certificate  |   Protocol    |   Issued To   |  Issued By   |  Valid From  |   Valid To   |  Days Until  | Expired? |
     |      ID       |               |               |              |              |              |  Expiration  |          |
