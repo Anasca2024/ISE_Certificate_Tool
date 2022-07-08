@@ -180,3 +180,10 @@ pip3 install -r requirements.txt
     |     ae77-     |               |               |              |     2022     |     2023     |              |          |
     | 9c2e9b506be8  |               |               |              |              |              |              |          |
     +---------------+---------------+---------------+--------------+--------------+--------------+--------------+----------+
+    
+# Copyright & License
+### Copyright (c) 2022 Cisco Systems, Inc. and its affiliates
+### All rights reserved.
+
+### Licensed under the MIT License. 
+
