@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 
 -N used to specify specific nodes to run the process on. NOTE: you may only list nodes within the deployment. The primary admin node specified by -n will be omitted unless added to the list.
 
--P this option is used for a portal certificate tag. To use the default portal tag you would use -P <any input>. To specify a portal tag, use a colon followed by the custom tag, ex: -P : example tag .
+-P this option is used for a portal certificate tag. To use the default portal tag you would use -P \<any input>. To specify a portal tag, use a colon followed by the custom tag, ex: -P : example tag .
 
     All options:
 
