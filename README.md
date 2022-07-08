@@ -101,7 +101,7 @@ pip3 install -r requirements.txt
 
     Importing certificate...
 
-    rwehe-ise31:
+    rwehe-ise:
     Certificate Successfully Imported.
 
 
@@ -142,7 +142,7 @@ pip3 install -r requirements.txt
 
     Importing certificate...
 
-    rwehe-ise31-2:
+    rwehe-ise-2:
     Certificate Successfully Imported.
 
 
