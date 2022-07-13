@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 
-# Copyright (c) 2022 Cisco Systems, Inc. and its affiliates
-# All rights reserved.
+"""
+Copyright (c) 2022 Cisco Systems, Inc. and its affiliates
+All rights reserved.
 
-# Licensed under the MIT License. 
+Licensed under the MIT License. You may obtain a copy of this license at the following link:
 
+https://spdx.org/licenses/MIT.html 
+
+"""
 from ciscoisesdk import IdentityServicesEngineAPI
 from ciscoisesdk.exceptions import  ApiError
 from datetime import date
