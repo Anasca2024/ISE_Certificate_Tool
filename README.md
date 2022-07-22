@@ -12,7 +12,7 @@ This tool prints the raw response of the ISE node when an error occurs. It will,
 # Installation
 ### Download 
 
-git clone https://github.com/Anasca2024/ISE_Certification_Tool
+git clone https://github.com/Anasca2024/ISE_Certificate_Tool
 
 cd ISE_Certificate_Tool
 
